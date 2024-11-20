@@ -1,18 +1,29 @@
 #modra{
     color: blue;
     width: 60px;
+    text-align: center;
 }
 #table{
     background-image:url(rammstien.jpg);
     background-size: contain;
     width: 900px;
     height:440px;
+    text-align: center;
 }
 #hodina{
     color:red;
     width: 50px;
+    text-align: center;
 }
 h1{
     color: azure;
     size: 80px;
+    text-align: center;
+}
+#ucitel
+{
+    color: deeppink;
+    width: 200px;
+    text-align: center;
+
 }
